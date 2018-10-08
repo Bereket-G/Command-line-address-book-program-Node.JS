@@ -22,5 +22,5 @@
 	$ contact-cli addContact  bereket Gebredingle  098547545  bereketgebredinlge@gmail.com
 	$ contact-cli getContact bereket
 	$ contact-cli updateContact 1524515667854  bereket Gebredingle  0922847962  bereketgebredinlge@gmail.com
-	$ contact-cli deleteContact bereket
+	$ contact-cli deleteContact 1524515667854
 
